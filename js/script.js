@@ -24,4 +24,6 @@ function calculate() {
   //output
   document.getElementById('take-home').innerHTML = 'Your pay will be: $' + takehome.toFixed(2)
   document.getElementById('government').innerHTML = 'The government takes: $' + tax.toFixed(2)
+
+  // comment
 }
